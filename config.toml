@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My Fuckedup Hugo Site"
+theme = "hyde"
